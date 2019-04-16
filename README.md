@@ -1,5 +1,5 @@
 # chainml
-A package that automates common steps in the ML pipeline to support scaling.
+A package to automate common steps in the ML pipeline to support scaling.
 
 To do:<br>
 Features (parent class)

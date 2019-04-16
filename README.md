@@ -3,12 +3,12 @@ A package that automates common steps in the ML pipeline to support scaling.
 
 To do:
 Features (parent class)
-Subclasses:
+<br>Subclasses:
 * Processing (wrappers & expansions for numpy, pandas, scikit-learn)
 * Engineering
 
 Eda (parent class)
-Subclasses:
+<br>Subclasses:
 * Bivariate
 * Anomoly
 

@@ -1,7 +1,7 @@
 # chainml
 A package that automates common steps in the ML pipeline to support scaling.
 
-To do:
+To do:<br>
 Features (parent class)
 <br>Subclasses:
 * Processing (wrappers & expansions for numpy, pandas, scikit-learn)

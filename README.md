@@ -1,11 +1,11 @@
 # chainml
-A package to automate common steps in the ML pipeline to support scaling.
+A package to automate common steps in the ML pipeline. This package captures the initial ML pipeline to support data preprocesss during model deployment. It also supports for the detection of concept drift.
 
 To do:<br>
 Features (parent class)
 <br>Subclasses:
 * Processing (wrappers & expansions for numpy, pandas, scikit-learn)
-* Engineering
+* Feature preprocessing (standization, normalization, outlier clipping)
 
 Eda (parent class)
 <br>Subclasses:

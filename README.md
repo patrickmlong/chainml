@@ -1,5 +1,5 @@
 # chainml
-A package to automate common steps in the ML pipeline. This package captures the initial ML pipeline to support data preprocesss during model deployment. It also supports the detection of concept drift.
+Scrapping together some common steps of an ML pipeline. 
 
 To do:<br>
 Features (parent class)
